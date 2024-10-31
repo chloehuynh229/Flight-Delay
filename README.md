@@ -15,9 +15,11 @@ The dataset includes both scheduled and actual departure and arrival times repor
 ## oncloud_v1.ipynb
 - Perform the machine learning pipeline using Amazon SageMaker for combined_csv_v1.csv;
 - Build and evaluate the baseline model as linear model;
-- Build and evaluate ensemble models as XGBoost.
+- Build and evaluate ensemble models as XGBoost; and
+- Compare the results of implementing the ML pipeline on-premises versus on the cloud.
 
 ## oncloud_v2.ipynb
 - Perform the machine learning pipeline using Amazon SageMaker for combined_csv_v2.csv;
 - Build and evaluate the baseline model as linear model;
-- Build and evaluate ensemble models as XGBoost.
+- Build and evaluate ensemble models as XGBoost; and
+- Compare the results of implementing the ML pipeline on-premises versus on the cloud.
